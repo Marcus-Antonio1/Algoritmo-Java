@@ -1,9 +1,9 @@
-O projeto tem como objetivo organizar uma coleção de livros usando as técnicas de Árvore
+ O projeto tem como objetivo organizar uma coleção de livros usando as técnicas de Árvore
  binária e o backtracking.
  De forma que a árvore foi usada para a organização dos livros de uma maneira mais
  eficiente que permite operações de busca e de inserção de certa forma mais rápidas e
  tendo a organização dos livros baseados no titulos
- Ouso do backtracking foi o melhor escolhido para a função de recomendação, pelo fato de
+ O uso do backtracking foi o melhor escolhido para a função de recomendação, pelo fato de
  ser necessário explorar toda a árvore para encontrar todos os livros de um autor. O
  backtracking atua para não deixar de verificar nenhuma possibilidade e é uma solução
  simples e eficiente nesse caso.
